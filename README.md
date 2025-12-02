@@ -8,7 +8,7 @@ A comprehensive RESTful API for hotel management built with Node.js, Express, an
 
 Link of base URL
 <pre>
-  https://hotelmanangement-api.vercel.app/
+ https://hotelmanangementapi-2.onrender.com
 </pre>
 
 <h2>🚀 Features</h2>
